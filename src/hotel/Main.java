@@ -28,7 +28,7 @@ public class Main {
         grupo[4]=p5;
         grupo[5]=p6;
         
-        Habitaciones = new Habitaciones();
+        //Habitaciones = new Habitaciones();
         
         
     
